@@ -1,0 +1,6 @@
+POST http://localhost:4000/repos/data
+Content-Type: application/json
+
+{
+    "username": "NguyenKhue09"
+}
